@@ -1,0 +1,206 @@
+html {
+min-height: 100%;
+}
+
+body {
+margin: 0;
+background-image:
+url("https://i.imgur.com/6ZH1LQo.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center ;
+background-attachment: fixed;
+box-sizing: border-box;
+position: absolute;
+width: 100%;
+height: 100%;
+}
+
+.container01 {
+color: #26272C;
+width: 100%;
+height: 25%;
+}
+
+
+
+
+
+.web-name {
+position:relative;
+border-radius:0 0 30% 30%;
+font-size: 1.2rem;
+color: white;
+padding-left: 2%;
+display: flex;
+background-color: #040703;
+}
+
+
+
+
+.contact {
+position: relative;
+top: 10%;
+width: 90vw;
+margin: 0 8vw 0 2vw
+}
+
+
+
+li {
+display: inline-block;
+margin-left: 10px;
+}
+
+
+
+.container02 {
+text-align: center;
+}
+
+.-h1 {
+
+padding: 25px;
+font-family: 'Lilita One';
+font-size: 10vw;
+}
+
+
+.-h12 {
+margin-top: 0;
+font-family: 'Lilita One';
+font-size: 10vw;
+color: white;
+}
+
+.imgp{
+padding: 0px;
+border-radius: 60%;
+width: 40vw;
+margin-top: 20px;
+}
+
+.myh1 {
+position: relative;
+top: 30px;
+color: #89D304;
+font-family: 'Fasthand';
+font-size: 7vw;
+padding-bottom: 40px;
+}
+
+
+.container03 {
+width: 80vw;
+background-image:
+url("https://i.imgur.com/RVmLpBW.jpg");
+background-size: cover;
+color: black;
+border-radius: 10px;
+position: relative;
+padding: 3%;
+margin: 30px auto 0;
+font-size: 1.5rem;
+line-height: 1.5;
+}
+
+.container03:hover{
+position: relative;
+}
+
+.container04 {
+width: 80vw;
+background-image: url("https://i.imgur.com/9pLjhJw.jpg");
+background-size: cover;
+color: white;
+border-radius: 10px;
+padding: 3%;
+position: relative;
+margin: 30px auto 0;
+font-size: 1.5rem;
+line-height: 1.5;
+}
+
+.container04:hover{
+position: relative;
+
+}
+
+.container05 {
+width: 80vw;
+background-image:
+url("https://i.imgur.com/XReN9dN.jpg");
+background-size: cover;
+color: gold;
+border-radius: 10px;
+position: relative;
+left:
+padding: 3%;
+margin: 30px auto 0;
+font-size: 1.5rem;
+line-height: 1.5;
+}
+
+.container05:hover{
+
+}
+
+.footer-div {
+width: 100%;
+background-image: url("footer-image.jpg");
+background-size: cover;
+text-align: center;
+color: white;
+font-size: 20px;
+padding: 10px 0 10px 0;
+margin-top: 20%;
+}
+
+span {
+font-size: 40px;
+}
+
+.contact-link {
+width: 32px;
+padding: 0 8px 0 8px;
+
+}
+
+
+.brand-name {
+font-size: 30px;
+color: #003D5D;
+}
+
+.footer-link-a {
+text-decoration: none;
+font-size: 30px;
+padding: 0 7px 50px 7px
+
+}
+
+.footer-link {
+text-decoration: none;
+color: black;
+}
+
+a {
+color: #060606;
+text-decoration: none;
+}
+
+a:hover {
+color: #66F7EC;
+}
+
+.text-link {
+display: none;
+}
+
+.l_l {
+    margin-left: 0;
+}
+
+
+
